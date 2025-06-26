@@ -1,8 +1,6 @@
 <div align="center">
   <h1>🚀 Привет! Меня зовут Денис, мне 17 лет и я из России 🇷🇺</h1>
   <p>🐍 | 📦 | 🧠 | 💻 | 🚀</p>
-  
-  <img src="https://readmetypograf.js.org/typograf?text=Python+JavaScript+C%23+HTML+CSS&font=Inter&fontSize=40&height=200&width=600&background=%231a1a1a&color=%23ffffff" alt="Skills Banner">
 </div>
 
 ## 🌟 О себе
